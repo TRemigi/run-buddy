@@ -219,6 +219,20 @@ header nav ul li a {
 .trainer-bio p {
     font-size: 17px;
 }
+
+/* Service Grid Section */
+.service-grid-container {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
 /* Reach Out Section*/
 .contact {
     background: #024e76;
